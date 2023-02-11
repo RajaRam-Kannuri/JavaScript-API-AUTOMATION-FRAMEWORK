@@ -20,7 +20,7 @@
 * Run `$ npm install -g mocha`
 * Run Tests `$ npm test`
 
-## Sample Test Scenarios - [Test Report Summary]
+## Sample Test Scenarios - [Test Report Summary](https://github.com/RajaRam-Kannuri/JavaScript-API-AUTOMATION-FRAMEWORK/blob/main/mochawesome-report/mochawesome.html)
 
     Candidate API - Test Suite
       Verify Candidate Response Schema - Test Suite
