@@ -28,5 +28,5 @@
     ✔ Verify JSON Schema Api using tv4 dependency (187ms)
     ✔ Verify Candidate Response JSON Schema using chai Assertions - Negative Test Case (180ms)
 
-  Sorting and Validating the Candidate API response using lastUpdated descending
+    Sorting and Validating the Candidate API response using lastUpdated descending
     ✔ Verify Sorting and Validating the Candidate API (872ms)
